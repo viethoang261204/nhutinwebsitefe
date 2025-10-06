@@ -2,6 +2,22 @@
 
 /* Prevent horizontal scrolling */
 html, body { overflow-x: hidden; }
+/* AboutUs section heading style */
+.section-title{display:flex;align-items:center;gap:.5rem;border-bottom:2px solid rgba(13,110,253,.2);padding-bottom:.25rem;margin-bottom:.75rem;font-weight:700}
+.section-title .bi{color:var(--bs-primary)}
+
+/* Subtle content block for sections */
+.content-block{
+  background:#fff;
+  border:1px solid rgba(0,0,0,.05);
+  border-left:3px solid rgba(13,110,253,.25);
+  border-radius:.5rem;
+  box-shadow:0 .125rem .25rem rgba(0,0,0,.05);
+}
+
+/* Remove stray 1px gap under fixed navbar on some devices */
+.navbar{ margin-bottom: 0 !important; }
+.fixed-top{ border-bottom: 0 !important; }
 /* Keyword highlight */
 .kw{color:#0f5132;font-weight:600}
 
