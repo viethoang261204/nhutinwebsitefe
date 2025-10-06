@@ -2,6 +2,8 @@
 
 /* Prevent horizontal scrolling */
 html, body { overflow-x: hidden; }
+/* Keyword highlight */
+.kw{color:#0f5132;font-weight:600}
 
 /*** Spinner ***/
 #spinner {
