@@ -122,14 +122,14 @@
             newsletter_cta: 'NHẮN TIN ZALO VỚI CHÚNG TÔI',
             // ungdung.html - Hero
             apps_hero_title: 'Lĩnh vực ứng dụng',
-            apps_hero_subtitle: 'KEITH® Walking Floor® Việt Nam',
+            apps_hero_subtitle: 'KEITH® WALKING FLOOR® System Việt Nam',
             // ungdung.html - Solution section
-            apps_solution_title: 'Giải pháp Keith® Walking Floor® VN, Sàn trượt tự động cho xe tải, container và rơ-moóc',
-            apps_solution_p1: 'Bạn đang tìm một giải pháp bốc dỡ hàng hóa nhanh chóng, an toàn và tiết kiệm chi phí? Công nghệ sàn trượt tự động Keith® Walking Floor® chính là lựa chọn tối ưu. Hệ thống được thiết kế thông minh, sử dụng cơ chế các tấm sàn di chuyển tuần tự để xếp và dỡ hàng mà không cần xe nâng hay máy xúc, giúp quá trình vận tải trở nên đơn giản và hiệu quả hơn bao giờ hết.',
-            apps_solution_p2: 'Với khả năng chịu tải từ 10 đến 80 tấn, Walking Floor® phù hợp cho nhiều loại hàng hóa: nông sản, phân bón, hạt nhựa, than đá, rác thải tái chế, hàng đóng bao và pallet. Đặc biệt, công nghệ này giúp doanh nghiệp tiết kiệm thời gian bốc dỡ lên tới 70%, giảm chi phí nhân công và hạn chế tối đa rủi ro hư hỏng hàng hóa.',
+            apps_solution_title: 'Giải pháp KEITH® WALKING FLOOR® System VN, Sàn trượt tự động cho xe tải, container và rơ-moóc',
+            apps_solution_p1: 'Bạn đang tìm một giải pháp bốc dỡ hàng hóa nhanh chóng, an toàn và tiết kiệm chi phí? Công nghệ sàn trượt tự động KEITH® WALKING FLOOR® System chính là lựa chọn tối ưu. Hệ thống được thiết kế thông minh, sử dụng cơ chế các tấm sàn di chuyển tuần tự để xếp và dỡ hàng mà không cần xe nâng hay máy xúc, giúp quá trình vận tải trở nên đơn giản và hiệu quả hơn bao giờ hết.',
+            apps_solution_p2: 'Với khả năng chịu tải từ 10 đến 80 tấn, KEITH® WALKING FLOOR® System phù hợp cho nhiều loại hàng hóa: nông sản, phân bón, hạt nhựa, than đá, rác thải tái chế, hàng đóng bao và pallet. Đặc biệt, công nghệ này giúp doanh nghiệp tiết kiệm thời gian bốc dỡ lên tới 70%, giảm chi phí nhân công và hạn chế tối đa rủi ro hư hỏng hàng hóa.',
             apps_solution_p3: 'Không chỉ bền bỉ và dễ bảo trì, hệ thống còn có thể tích hợp điều khiển từ xa, cảm biến an toàn và kết nối giám sát thông minh, mang lại sự an tâm tuyệt đối trong vận hành. Đây là giải pháp hiện đại đang được nhiều doanh nghiệp vận tải và kho bãi tại Việt Nam lựa chọn để nâng cao năng suất và tăng sức cạnh tranh trên thị trường.',
             apps_solution_cta_strong: '👉 Liên hệ ngay 0907917301',
-            apps_solution_cta_tail: 'để nhận tư vấn chi tiết về Keith® Walking Floor® Việt Nam và khám phá giải pháp bốc dỡ hàng hóa tự động phù hợp nhất cho doanh nghiệp của bạn.',
+            apps_solution_cta_tail: 'để nhận tư vấn chi tiết về KEITH® WALKING FLOOR® System Việt Nam và khám phá giải pháp bốc dỡ hàng hóa tự động phù hợp nhất cho doanh nghiệp của bạn.',
             apps_solution_video1_caption: 'Thùng xe lắp sàn tự đổ mùn cưa',
             apps_solution_video2_caption: 'Container 40 feet lắp sàn tự đổ dăm gỗ',
             apps_section_lead: 'Bên dưới là một số phương tiện thực tế tiêu biểu đã đưa vào vận hành bởi các khách hàng của chúng tôi.',
@@ -139,11 +139,11 @@
             apps_section_item4: 'Container 40ft lắp sàn trượt tự đổ sinh khối bã điều',
             // ungdung.html - Biomass
             apps_biomass_title: 'Công dụng trong lĩnh vực Biomass',
-            apps_biomass_intro: 'Biomass thường gồm các loại vật liệu rời như dăm gỗ, mùn cưa, vỏ trấu, bã nông lâm sản, viên nén sinh khối (pellet) v.v. Các công dụng của Walking Floor trong Biomass là:',
+            apps_biomass_intro: 'Biomass thường gồm các loại vật liệu rời như dăm gỗ, mùn cưa, vỏ trấu, bã nông lâm sản, viên nén sinh khối (pellet) v.v. Các công dụng của KEITH® WALKING FLOOR® System trong Biomass là:',
             apps_biomass_card1_title: 'Nhận vật liệu',
             apps_biomass_card1_text: 'Từ xe đưa nguyên liệu vào, hệ thống có thể nhận vật liệu từ trailer hoặc xe tải mà không cần ben hay nâng hạ quá phức tạp.',
             apps_biomass_card2_title: 'Lưu trữ tạm thời',
-            apps_biomass_card2_text: 'Lưu biomass chờ xử lý / đốt / nghiền. Với bin cố định, Walking Floor có thể chứa một khối lượng lớn và cấp liệu đều theo nhu cầu.',
+            apps_biomass_card2_text: 'Lưu biomass chờ xử lý / đốt / nghiền. Với bin cố định, KEITH® WALKING FLOOR® System có thể chứa một khối lượng lớn và cấp liệu đều theo nhu cầu.',
             apps_biomass_card3_title: 'Cấp liệu / đo đếm',
             apps_biomass_card3_text: 'Đưa biomass từ nơi lưu trữ đến nơi xử lý với tốc độ điều chỉnh được, ổn định, tránh tắc nghẽn hoặc ngưng trệ.',
             apps_biomass_card4_title: 'Xả / đổ vật liệu',
@@ -169,10 +169,10 @@
             apps_coal_title2: 'Công dụng trong lĩnh vực than đá',
 
             apps_coal_card1_title: 'Nhận than từ xe tải / toa tàu',
-            apps_coal_card1_text: 'Than khi được vận chuyển đến nhà máy điện hoặc nhà máy chế biến than có thể được đổ vào các bin chứa sử dụng Walking Floor thay vì xe ben.',
+            apps_coal_card1_text: 'Than khi được vận chuyển đến nhà máy điện hoặc nhà máy chế biến than có thể được đổ vào các bin chứa sử dụng KEITH® WALKING FLOOR® System thay vì xe ben.',
 
             apps_coal_card2_title: 'Lưu trữ tạm thời và phân phối',
-            apps_coal_card2_text: 'Các kho chứa than, kho trung chuyển – sử dụng Walking Floor để cấp than vào băng tải, lò đốt, máy nghiền,… với lưu lượng đều.',
+            apps_coal_card2_text: 'Các kho chứa than, kho trung chuyển – sử dụng KEITH® WALKING FLOOR® System để cấp than vào băng tải, lò đốt, máy nghiền,… với lưu lượng đều.',
 
             apps_coal_card3_title: 'Xả than / dỡ than',
             apps_coal_card3_text: 'Khi phải lấy than ra từ container, xe tải, xe toa, sử dụng sàn trượt giúp xả sạch, hạn chế than đọng lại.',
@@ -181,18 +181,18 @@
             apps_coal_card4_text: 'Đưa than vào lò, buồng đốt, hoặc vào máy nghiền — điều khiển lưu lượng đầu vào để ổn định quá trình đốt hoặc nghiền, tối ưu hiệu suất.',
 
             apps_coal_card5_title: 'Giảm bụi & ô nhiễm',
-            apps_coal_card5_text: 'Với việc vận chuyển, xả bằng Walking Floor, có thể thiết kế ít bung bụi hơn so với đổ than từ trên cao hoặc nghiêng xe.',
+            apps_coal_card5_text: 'Với việc vận chuyển, xả bằng KEITH® WALKING FLOOR® System, có thể thiết kế ít bung bụi hơn so với đổ than từ trên cao hoặc nghiêng xe.',
 
-            apps_coal_benefits_title: 'Lợi ích khi dùng Keith Walking Floor cho than đá',
+            apps_coal_benefits_title: 'Lợi ích khi dùng KEITH WALKING FLOOR® System cho than đá',
 
             apps_coal_th_benefit: 'Lợi ích',
             apps_coal_th_explain: 'Giải thích đặc thù than đá',
 
             apps_coal_b1_title: 'Vận hành ổn định & đều',
-            apps_coal_b1_text: 'Than đá có trọng lượng lớn, kích thước đa dạng; Walking Floor giúp cấp liệu đều, tránh "đột ngột" — giúp lò đốt hoặc máy nghiền hoạt động ổn định.',
+            apps_coal_b1_text: 'Than đá có trọng lượng lớn, kích thước đa dạng; KEITH® WALKING FLOOR® System giúp cấp liệu đều, tránh "đột ngột" — giúp lò đốt hoặc máy nghiền hoạt động ổn định.',
 
             apps_coal_b2_title: 'Giảm hao hụt than và loại bỏ tắc nghẽn',
-            apps_coal_b2_text: 'Than đá dễ bị vón, bám thành lớp; nếu dùng hệ thống đổ thông thường có thể còn lại rất nhiều than trong thùng xe/bin. Walking Floor giúp đẩy hầu như hết than đá ra ngoài, hạn chế phần "chết" còn lại.',
+            apps_coal_b2_text: 'Than đá dễ bị vón, bám thành lớp; nếu dùng hệ thống đổ thông thường có thể còn lại rất nhiều than trong thùng xe/bin. KEITH® WALKING FLOOR® System giúp đẩy hầu như hết than đá ra ngoài, hạn chế phần "chết" còn lại.',
 
             apps_coal_b3_title: 'An toàn & giảm sự cố',
             apps_coal_b3_text: 'Giảm rủi ro lao động khi bốc xúc than, giảm khả năng than rơi, giảm bụi than—tất cả giúp giảm nguy cơ cháy nổ do bụi than, nguy hiểm về hô hấp cho công nhân.',
@@ -201,14 +201,14 @@
             apps_coal_b4_text: 'Ít công nhân bốc xúc bằng tay, ít máy móc phụ trợ (xe ben đổ, máy xúc), ít hư hại thiết bị do vận hành cẩu nâng, nghiêng xe.',
 
             apps_coal_b5_title: 'Thích ứng với điều kiện cơ sở hạ tầng hạn chế',
-            apps_coal_b5_text: 'Nếu trần nhà kho thấp, hoặc không thể nghiêng xe nhiều, hoặc vị trí không thuận tiện để thiết đặt băng tải nghiêng, Walking Floor có thể là giải pháp phù hợp.',
+            apps_coal_b5_text: 'Nếu trần nhà kho thấp, hoặc không thể nghiêng xe nhiều, hoặc vị trí không thuận tiện để thiết đặt băng tải nghiêng, KEITH® WALKING FLOOR® System có thể là giải pháp phù hợp.',
 
             apps_coal_b6_title: 'Tối ưu hóa hiệu suất nhiệt / nhiên liệu',
             apps_coal_b6_text: 'Khi cấp than đều vào lò đốt, nhiệt độ ổn định hơn, cháy tốt hơn, giảm lượng than phải cấp thêm để bù đắp hoạt động không ổn định.',
             apps_construction_title2: 'Công dụng với vật liệu xây dựng',
 
             apps_construction_card1_title: 'Nhận vật liệu xây dựng',
-            apps_construction_card1_text: 'Xe tải chở cát, đá nhỏ, sỏi, xi măng rời, phụ gia,... vào kho hoặc trung chuyển; Walking Floor giúp nhận vật liệu mà không cần phương pháp đổ truyền thống.',
+            apps_construction_card1_text: 'Xe tải chở cát, đá nhỏ, sỏi, xi măng rời, phụ gia,... vào kho hoặc trung chuyển; KEITH® WALKING FLOOR® System giúp nhận vật liệu mà không cần phương pháp đổ truyền thống.',
 
             apps_construction_card2_title: 'Lưu trữ tạm thời',
             apps_construction_card2_text: 'Chứa vật liệu xây dựng trong bin cố định, tại công trường hoặc kho nguyên liệu; dùng để ổn định nguồn cấp cho công trình khi nhu cầu dao động.',
@@ -217,7 +217,7 @@
             apps_construction_card3_text: 'Dây chuyền trộn bê tông, máy trộn, máy nghiền đá, máy cắt / máy đổ; cung cấp đều, có thể điều chỉnh tốc độ để phù hợp nhu cầu.',
 
             apps_construction_card4_title: 'Xả / dỡ vật liệu xây dựng',
-            apps_construction_card4_text: 'Đá, sỏi, bê tông vụn,... từ xe hoặc cont; Walking Floor "đẩy" vật liệu ra ngoài không cần nghiêng xe, giúp dỡ nhanh hơn.',
+            apps_construction_card4_text: 'Đá, sỏi, bê tông vụn,... từ xe hoặc cont; KEITH® WALKING FLOOR® System "đẩy" vật liệu ra ngoài không cần nghiêng xe, giúp dỡ nhanh hơn.',
 
             apps_construction_card5_title: 'Phân phối / đo đếm',
             apps_construction_card5_text: 'Có thể tích hợp đo lưu lượng vật liệu cấp vào máy trộn để đảm bảo đúng tỉ lệ phối liệu, hạn chế sai sót.',
@@ -231,13 +231,13 @@
             apps_construction_b1_text: 'Việc nhận và xả vật liệu nhanh, đều, giúp giảm thời gian chờ xe tải hoặc công nhân bốc xúc – đặc biệt hữu ích khi dự án xây dựng có khối lượng lớn cần cung ứng nhanh.',
 
             apps_construction_b2_title: 'Giảm hao hụt & tối ưu sử dụng vật liệu',
-            apps_construction_b2_text: 'Vật liệu xây dựng nhỏ như cát, đá mạt nếu còn lại nhiều trong xe / bin thì bị bỏ phí; Walking Floor giúp xả gần hết, giảm phần "chết".',
+            apps_construction_b2_text: 'Vật liệu xây dựng nhỏ như cát, đá mạt nếu còn lại nhiều trong xe / bin thì bị bỏ phí; KEITH® WALKING FLOOR® System giúp xả gần hết, giảm phần "chết".',
 
             apps_construction_b3_title: 'An toàn & giảm công sức lao động',
             apps_construction_b3_text: 'Giảm việc xúc, xúc tay, đào bới; hạn chế bụi khi xả – tốt cho môi trường công trường và sức khỏe công nhân.',
 
             apps_construction_b4_title: 'Linh hoạt trong bố trí công trường',
-            apps_construction_b4_text: 'Nếu công trường không có diện tích hoặc địa hình ko cho xe nghiêng cao, hoặc trần nhà kho thấp – Walking Floor dễ bố trí hơn.',
+            apps_construction_b4_text: 'Nếu công trường không có diện tích hoặc địa hình ko cho xe nghiêng cao, hoặc trần nhà kho thấp – KEITH® WALKING FLOOR® System dễ bố trí hơn.',
 
             apps_construction_b5_title: 'Tăng ổn định khi phối liệu / trộn bê tông',
             apps_construction_b5_text: 'Cung cấp vật liệu đều giúp máy trộn vận hành ổn định, hỗ trợ chất lượng bê tông tốt hơn (giảm bọt khí, tăng đều các thành phần).',
@@ -461,7 +461,7 @@
             apps_fertilizer_card2_text: 'Giữ phân bón trong bin cố định, khi có nhu cầu thì cấp ra đều để trộn phân hoặc đóng gói.',
 
             apps_fertilizer_card3_title: 'Cấp liệu định lượng / đều đặn',
-            apps_fertilizer_card3_text: 'Phân bón vào hệ thống trộn, máy đóng bao, dây chuyền sản xuất liên tục cần lượng phân bón ổn định. Walking Floor có thể cung cấp với lưu lượng ổn định, có thể điều chỉnh.',
+            apps_fertilizer_card3_text: 'Phân bón vào hệ thống trộn, máy đóng bao, dây chuyền sản xuất liên tục cần lượng phân bón ổn định. KEITH® WALKING FLOOR® System có thể cung cấp với lưu lượng ổn định, có thể điều chỉnh.',
 
             apps_fertilizer_card4_title: 'Xả phân bón nhanh & sạch',
             apps_fertilizer_card4_text: 'Giảm lượng phân bón còn sót lại trong xe, trong bin – giúp giảm hao hụt, giảm nguy cơ phân bị ẩm hoặc biến chất do nằm lâu.',
@@ -471,7 +471,7 @@
             apps_fertilizer_th_explain: 'Giải thích liên quan phân bón',
 
             apps_fertilizer_b1_title: 'Giảm tổn thất vật liệu',
-            apps_fertilizer_b1_text: 'Phân bón thường nhỏ hạt, có bụi, dễ bị thất thoát khi xả thủ công. Walking Floor giúp xả sạch hơn, giảm phần "chết" còn lại trong xe/bin.',
+            apps_fertilizer_b1_text: 'Phân bón thường nhỏ hạt, có bụi, dễ bị thất thoát khi xả thủ công. KEITH® WALKING FLOOR® System giúp xả sạch hơn, giảm phần "chết" còn lại trong xe/bin.',
 
             apps_fertilizer_b2_title: 'Tăng an toàn & vệ sinh',
             apps_fertilizer_b2_text: 'Ít bụi, ít tiếp xúc với phân bón (nhân công), phân bón không phải bị đổ bằng cách nghiêng hoặc xúc bằng tay – giảm rủi ro hít bụi, tiếp xúc hóa chất nếu có.',
@@ -492,7 +492,7 @@
             apps_fertilizer_notes_detail4: 'Vệ sinh & ngăn lẫn: Nếu dùng cùng sàn để xử lý nhiều loại vật liệu khác nhau, có nguy cơ lẫn tạp chất (ví dụ vật liệu còn sót lại từ vật liệu trước đó). Cần thiết kế vệ sinh dễ dàng, rửa sạch nếu cần.',
 
             apps_fertilizer_video_title: 'Video minh họa ứng dụng phân bón',
-            apps_fertilizer_video_caption: 'Ứng dụng Walking Floor trong xử lý phân bón' ,
+            apps_fertilizer_video_caption: 'Ứng dụng KEITH® WALKING FLOOR® System trong xử lý phân bón' ,
             prod_download_btn : 'Tải xuống PDF',
             
             // Floor slats section
@@ -631,8 +631,8 @@
             // About Keith page
             
             // About Nhu Tin page
-            aboutnhutin_hero_title: 'Khách hàng truyền cảm hứng<br>Đổi mới tạo giá trị',
-            aboutnhutin_hero_subtitle: 'Nhu Tin – Authorized Dealer of KEITH WALKING FLOOR® Systems',
+            aboutnhutin_hero_title: 'Khách hàng truyền cảm hứng<br/>Đổi mới tạo giá trị',
+            aboutnhutin_hero_subtitle: 'Như Tín – Đại lý ủy quyền của KEITH WALKING FLOOR® Systems',
             aboutnhutin_main_title: 'Về Chúng Tôi',
             aboutnhutin_company_title: 'Công ty Cổ phần Như Tín',
             aboutnhutin_intro_title: 'Giới thiệu & Lĩnh vực hoạt động',
@@ -784,14 +784,14 @@
             newsletter_cta: 'MESSAGE US ON ZALO',
             // ungdung.html - Hero
             apps_hero_title: 'Application Fields',
-            apps_hero_subtitle: 'KEITH® Walking Floor® Vietnam',
+            apps_hero_subtitle: 'KEITH® WALKING FLOOR® System Vietnam',
             // ungdung.html - Solution section
-            apps_solution_title: 'Keith® Walking Floor® VN – Automatic sliding floors for trucks, containers and trailers',
-            apps_solution_p1: 'Looking for a fast, safe and cost-effective loading/unloading solution? The Keith® Walking Floor® automatic sliding floor technology is the optimal choice. The system uses sequential floor slats to load and unload without forklifts or loaders, making transport simpler and more efficient than ever.',
-            apps_solution_p2: 'With load capacity from 10 to 80 tons, Walking Floor® suits many cargo types: agricultural products, fertilizers, plastic pellets, coal, recyclable waste, bagged goods and pallets. It can save up to 70% unloading time, reduce labor cost and minimize cargo damage risks.',
+            apps_solution_title: 'KEITH® WALKING FLOOR® System VN – Automatic sliding floors for trucks, containers and trailers',
+            apps_solution_p1: 'Looking for a fast, safe and cost-effective loading/unloading solution? The KEITH® WALKING FLOOR® System automatic sliding floor technology is the optimal choice. The system uses sequential floor slats to load and unload without forklifts or loaders, making transport simpler and more efficient than ever.',
+            apps_solution_p2: 'With load capacity from 10 to 80 tons, KEITH® WALKING FLOOR® System suits many cargo types: agricultural products, fertilizers, plastic pellets, coal, recyclable waste, bagged goods and pallets. It can save up to 70% unloading time, reduce labor cost and minimize cargo damage risks.',
             apps_solution_p3: 'Durable and easy to maintain, the system can integrate remote control, safety sensors and smart monitoring, offering complete peace of mind. It is a modern solution chosen by many transport and warehousing businesses in Vietnam to boost productivity and competitiveness.',
             apps_solution_cta_strong: '👉 Contact 0907917301 now',
-            apps_solution_cta_tail: 'to get detailed consultation on Keith® Walking Floor® Vietnam and the best-fit automatic handling solution for your business.',
+            apps_solution_cta_tail: 'to get detailed consultation on KEITH® WALKING FLOOR® System Vietnam and the best-fit automatic handling solution for your business.',
             apps_solution_video1_caption: 'Truck body with sliding floor for sawdust',
             apps_solution_video2_caption: '40ft container with sliding floor for wood chips',
             apps_section_lead: 'Below are some representative real-world vehicles put into operation by our customers.',
@@ -801,7 +801,7 @@
             apps_section_item4: '40ft container with sliding floor for biomass (cashew residue)',
             // ungdung.html - Biomass
             apps_biomass_title: 'Applications in Biomass',
-            apps_biomass_intro: 'Biomass includes loose materials like wood chips, sawdust, rice husks, agro-forestry residues, biomass pellets, etc. Walking Floor applications in Biomass include:',
+            apps_biomass_intro: 'Biomass includes loose materials like wood chips, sawdust, rice husks, agro-forestry residues, biomass pellets, etc. KEITH® WALKING FLOOR® System applications in Biomass include:',
             apps_biomass_card1_title: 'Receiving materials',
             apps_biomass_card1_text: 'Receive materials from trailers or trucks without complex tipping or lifting.',
             apps_biomass_card2_title: 'Temporary storage',
@@ -830,30 +830,30 @@
             apps_biomass_videos_title: 'Biomass application videos',
             apps_coal_title2: 'Applications in the coal industry',
             apps_coal_card1_title: 'Receiving coal from trucks / rail wagons',
-            apps_coal_card1_text: 'When coal is transported to power plants or processing plants, it can be unloaded into storage bins using Walking Floor instead of dump trucks.',
+            apps_coal_card1_text: 'When coal is transported to power plants or processing plants, it can be unloaded into storage bins using KEITH® WALKING FLOOR® System instead of dump trucks.',
 
             apps_coal_card2_title: 'Temporary storage and distribution',
-            apps_coal_card2_text: 'Coal storage facilities and transfer warehouses use Walking Floor to feed coal into conveyors, furnaces, and crushers with consistent flow.',
+            apps_coal_card2_text: 'Coal storage facilities and transfer warehouses use KEITH® WALKING FLOOR® System to feed coal into conveyors, furnaces, and crushers with consistent flow.',
 
             apps_coal_card3_title: 'Coal unloading / discharge',
-            apps_coal_card3_text: 'When unloading coal from containers, trucks, or wagons, Walking Floor ensures clean discharge and minimizes leftover coal.',
+            apps_coal_card3_text: 'When unloading coal from containers, trucks, or wagons, KEITH® WALKING FLOOR® System ensures clean discharge and minimizes leftover coal.',
 
             apps_coal_card4_title: 'Coal feeding (metering / feeding)',
             apps_coal_card4_text: 'Deliver coal into furnaces, combustion chambers, or crushers — controlling input flow to stabilize burning or grinding and optimize efficiency.',
 
             apps_coal_card5_title: 'Reduce dust & pollution',
-            apps_coal_card5_text: 'With Walking Floor transportation and unloading, less dust is generated compared to tipping trucks or unloading from height.',
+            apps_coal_card5_text: 'With KEITH® WALKING FLOOR® System transportation and unloading, less dust is generated compared to tipping trucks or unloading from height.',
 
-            apps_coal_benefits_title: 'Benefits of using Keith Walking Floor for coal',
+            apps_coal_benefits_title: 'Benefits of using KEITH WALKING FLOOR® System for coal',
 
             apps_coal_th_benefit: 'Benefit',
             apps_coal_th_explain: 'Coal-specific explanation',
 
             apps_coal_b1_title: 'Stable & consistent operation',
-            apps_coal_b1_text: 'Coal is heavy and varies in size; Walking Floor ensures smooth feeding, avoiding sudden surges and keeping furnaces or crushers stable.',
+            apps_coal_b1_text: 'Coal is heavy and varies in size; KEITH® WALKING FLOOR® System ensures smooth feeding, avoiding sudden surges and keeping furnaces or crushers stable.',
 
             apps_coal_b2_title: 'Reduced coal loss & eliminated blockages',
-            apps_coal_b2_text: 'Coal tends to clump and stick; with conventional unloading, much coal remains inside. Walking Floor pushes almost all coal out, reducing leftover deposits.',
+            apps_coal_b2_text: 'Coal tends to clump and stick; with conventional unloading, much coal remains inside. KEITH® WALKING FLOOR® System pushes almost all coal out, reducing leftover deposits.',
 
             apps_coal_b3_title: 'Safety & fewer incidents',
             apps_coal_b3_text: 'Minimizes manual handling risks, reduces coal spillage and dust — lowering explosion hazards and respiratory risks for workers.',
@@ -869,7 +869,7 @@
             apps_construction_title2: 'Applications in construction materials',
 
             apps_construction_card1_title: 'Receiving construction materials',
-            apps_construction_card1_text: 'Trucks carrying sand, gravel, crushed stone, bulk cement, additives, etc., can unload into warehouses or transfer bins; Walking Floor enables unloading without traditional tipping.',
+            apps_construction_card1_text: 'Trucks carrying sand, gravel, crushed stone, bulk cement, additives, etc., can unload into warehouses or transfer bins; KEITH® WALKING FLOOR® System enables unloading without traditional tipping.',
 
             apps_construction_card2_title: 'Temporary storage',
             apps_construction_card2_text: 'Store construction materials in fixed bins, at construction sites or warehouses; used to stabilize supply when demand fluctuates.',
@@ -878,7 +878,7 @@
             apps_construction_card3_text: 'Concrete batching plants, mixers, stone crushers, cutting or pouring machines — all benefit from steady supply with adjustable flow rate.',
 
             apps_construction_card4_title: 'Unloading construction materials',
-            apps_construction_card4_text: 'Gravel, crushed concrete, etc., can be discharged from trucks or containers with Walking Floor — no tipping required, faster unloading.',
+            apps_construction_card4_text: 'Gravel, crushed concrete, etc., can be discharged from trucks or containers with KEITH® WALKING FLOOR® System — no tipping required, faster unloading.',
 
             apps_construction_card5_title: 'Distribution / metering',
             apps_construction_card5_text: 'Can integrate flow measurement when feeding into mixers to ensure correct mix ratios and minimize errors.',
@@ -892,13 +892,13 @@
             apps_construction_b1_text: 'Fast, consistent loading and unloading reduces truck waiting time or manual labor — especially useful for large-scale projects requiring fast supply.',
 
             apps_construction_b2_title: 'Reduced loss & optimized material use',
-            apps_construction_b2_text: 'Small materials like sand or fines are often wasted if left in trucks/bins; Walking Floor unloads nearly all, minimizing dead volume.',
+            apps_construction_b2_text: 'Small materials like sand or fines are often wasted if left in trucks/bins; KEITH® WALKING FLOOR® System unloads nearly all, minimizing dead volume.',
 
             apps_construction_b3_title: 'Safety & reduced labor effort',
             apps_construction_b3_text: 'Less manual shoveling or digging; reduced dust during unloading — better for site environment and worker health.',
 
             apps_construction_b4_title: 'Flexibility in site layout',
-            apps_construction_b4_text: 'If the site lacks space or terrain for truck tipping, or has low warehouse ceilings, Walking Floor offers easier installation.',
+            apps_construction_b4_text: 'If the site lacks space or terrain for truck tipping, or has low warehouse ceilings, KEITH® WALKING FLOOR® System offers easier installation.',
 
             apps_construction_b5_title: 'Improved consistency in batching / mixing concrete',
             apps_construction_b5_text: 'Steady supply ensures mixers operate smoothly, improving concrete quality (less air pockets, more uniform composition).',
@@ -1121,7 +1121,7 @@
             apps_fertilizer_card2_text: 'Store fertilizer in fixed bins and discharge evenly when needed for blending or packaging.',
 
             apps_fertilizer_card3_title: 'Metered / consistent feeding',
-            apps_fertilizer_card3_text: 'For mixers, bagging machines, and continuous production lines, stable fertilizer flow is critical. Walking Floor provides a steady, adjustable feed.',
+            apps_fertilizer_card3_text: 'For mixers, bagging machines, and continuous production lines, stable fertilizer flow is critical. KEITH® WALKING FLOOR® System provides a steady, adjustable feed.',
 
             apps_fertilizer_card4_title: 'Fast & clean fertilizer discharge',
             apps_fertilizer_card4_text: 'Minimizes residual fertilizer left in trucks or bins, reducing waste and preventing moisture or spoilage issues.',
@@ -1131,7 +1131,7 @@
             apps_fertilizer_th_explain: 'Explanation related to fertilizer',
 
             apps_fertilizer_b1_title: 'Reduced material loss',
-            apps_fertilizer_b1_text: 'Fertilizer granules are small and dusty, easily lost in manual unloading. Walking Floor ensures cleaner discharge with less residual waste.',
+            apps_fertilizer_b1_text: 'Fertilizer granules are small and dusty, easily lost in manual unloading. KEITH® WALKING FLOOR® System ensures cleaner discharge with less residual waste.',
 
             apps_fertilizer_b2_title: 'Improved safety & hygiene',
             apps_fertilizer_b2_text: 'Less dust, less human contact. No need to tip or manually shovel fertilizer – reducing risks of dust inhalation or chemical exposure.',
@@ -1152,7 +1152,7 @@
             apps_fertilizer_notes_detail4: 'Hygiene & contamination prevention: Using the same floor for different materials risks cross-contamination (e.g., residual material from previous loads). Design for easy cleaning and thorough washing when needed.',
 
             apps_fertilizer_video_title: 'Fertilizer application demo video',
-            apps_fertilizer_video_caption: 'Walking Floor application in fertilizer handling',
+            apps_fertilizer_video_caption: 'KEITH® WALKING FLOOR® System application in fertilizer handling',
             prod_download_btn : 'Download PDF',
             
             // Floor slats section (English)
@@ -1291,7 +1291,7 @@
             // About Keith page
             
             // About Nhu Tin page
-            aboutnhutin_hero_title: 'Khách hàng truyền cảm hứng<br>Đổi mới tạo giá trị',
+            aboutnhutin_hero_title: 'Customers inspire us<br/>Innovation creates value',
             aboutnhutin_hero_subtitle: 'Nhu Tin – Authorized Dealer of KEITH WALKING FLOOR® Systems',
             aboutnhutin_main_title: 'About Us',
             aboutnhutin_company_title: 'Nhu Tin Corporation',
