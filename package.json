@@ -1,0 +1,30 @@
+{
+  "name": "keith-walking-floor-frontend",
+  "version": "1.0.0",
+  "description": "Frontend website for KEITH WALKING FLOOR - Như Tín Vietnam",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "echo 'Static website - no build process needed'",
+    "deploy": "echo 'Upload FE/ folder to your web server'"
+  },
+  "keywords": [
+    "keith",
+    "walking-floor",
+    "vietnam",
+    "transport",
+    "static-website"
+  ],
+  "author": "Như Tín Vietnam",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/keith-walking-floor-frontend"
+  },
+  "homepage": "https://thungxetudo.com"
+}
