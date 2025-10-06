@@ -86,7 +86,16 @@ npx serve .
 php -S localhost:8000
 ```
 
-### 2. **Deploy lên hosting**
+### 2. **Deploy lên Render (Khuyến nghị)**
+```bash
+# Build cho production
+npm run build
+
+# Deploy lên Render
+# Xem hướng dẫn chi tiết trong DEPLOY_TO_RENDER.md
+```
+
+### 3. **Deploy lên hosting khác**
 - Upload toàn bộ thư mục `FE/` lên hosting
 - Đảm bảo file `index.html` là trang chủ
 - Cấu hình web server để serve static files

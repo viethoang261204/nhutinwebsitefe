@@ -6,8 +6,10 @@
   "scripts": {
     "start": "npx serve .",
     "dev": "npx live-server .",
-    "build": "echo 'Static website - no build process needed'",
-    "deploy": "echo 'Upload FE/ folder to your web server'"
+    "build": "npm run copy-assets && npm run optimize",
+    "copy-assets": "node scripts/copy-assets.js",
+    "optimize": "node scripts/optimize.js",
+    "deploy": "echo 'Deploy to Render completed'"
   },
   "keywords": [
     "keith",
@@ -26,5 +28,5 @@
     "type": "git",
     "url": "https://github.com/your-username/keith-walking-floor-frontend"
   },
-  "homepage": "https://thungxetudo.com"
+  "homepage": "https://keith-walking-floor.onrender.com"
 }
