@@ -576,6 +576,12 @@
             slat_2185_specs_apps_val: 'Trailer, xe ben di động, thùng chứa rác, container tái chế, kho vận tải nhẹ & trung bình',
             slat_2185_specs_options: 'Tùy chọn',
             slat_2185_specs_options_val: 'Seal ngang / Seal nghiêng tùy thiết kế sàn',
+            slat_2185_why_title: 'Vì sao đây là sản phẩm tiêu chuẩn được sử dụng chính?',
+            slat_2185_why_li1: '✅ Được khuyến nghị bởi hãng KEITH® cho hầu hết các ứng dụng sàn nhôm thông thường.',
+            slat_2185_why_li2: '✅ Độ tương thích cao: phù hợp với toàn bộ hệ thống thủy lực và kết cấu sàn trượt hiện có.',
+            slat_2185_why_li3: '✅ Thay thế dễ dàng: cùng kích thước với các slat nhôm thông dụng khác, dễ bảo trì – thay thế từng thanh riêng lẻ.',
+            slat_2185_why_li4: '✅ Giá trị kinh tế cao: tuổi thọ bền, chi phí đầu tư hợp lý, hiệu quả vận hành ổn định lâu dài.',
+            slat_2185_why_li5: '✅ Được tin dùng bởi nhiều đơn vị vận tải và xử lý rác thải lớn – nhờ độ tin cậy và khả năng chịu tải tốt.',
             
             // Coordination section
             prod_coord_title : 'Sự phối hợp giữa Thanh sàn KEITH® WALKING FLOOR® và hệ truyền động KEITH®',
@@ -1267,6 +1273,12 @@
             slat_2185_specs_apps_val: 'Trailers, moving tippers, waste bins, recycling containers, light & medium logistics',
             slat_2185_specs_options: 'Options',
             slat_2185_specs_options_val: 'Horizontal seal / angled seal depending on floor design',
+            slat_2185_why_title: 'Why is this the standard, most widely used product?',
+            slat_2185_why_li1: '✅ Recommended by KEITH® for most conventional aluminum floor applications.',
+            slat_2185_why_li2: '✅ High compatibility: fits existing hydraulic systems and walking floor structures.',
+            slat_2185_why_li3: '✅ Easy replacement: same dimensions as common aluminum slats; easy maintenance – replace single slats.',
+            slat_2185_why_li4: '✅ Strong economics: durable lifespan, reasonable investment cost, long-term stable performance.',
+            slat_2185_why_li5: '✅ Trusted by major transport and waste-handling operators thanks to reliability and load capacity.',
             
             // Coordination section (English)
             prod_coord_title: 'Coordination Between KEITH® WALKING FLOOR® Slats and KEITH® Drive SYSTEMS',
